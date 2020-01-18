@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="AZ10util" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/AZ10util" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/AZ10util" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="az100.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="az100_i.h" />
+		<Unit filename="azlzma/LzmaDec.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="azlzma/LzmaDec.h" />
+		<Unit filename="azlzma/LzmaLib.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="azlzma/LzmaLib.h" />
+		<Unit filename="azlzma/Types.h" />
+		<Unit filename="compress.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="compress.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="orlzma/7zBuf.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="orlzma/7zBuf.h" />
+		<Unit filename="orlzma/7zBuf2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="orlzma/7zCrc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="orlzma/7zCrc.h" />
+		<Unit filename="orlzma/7zFile.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="orlzma/7zFile.h" />
+		<Unit filename="orlzma/7zStream.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="orlzma/7zVersion.h" />
+		<Unit filename="orlzma/Alloc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="orlzma/Alloc.h" />
+		<Unit filename="orlzma/Bcj2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="orlzma/Bcj2.h" />
+		<Unit filename="orlzma/Bra.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="orlzma/Bra.h" />
+		<Unit filename="orlzma/Bra86.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="orlzma/BraIA64.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="orlzma/CpuArch.h" />
+		<Unit filename="orlzma/LzFind.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="orlzma/LzFind.h" />
+		<Unit filename="orlzma/LzHash.h" />
+		<Unit filename="orlzma/LzmaDec.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="orlzma/LzmaDec.h" />
+		<Unit filename="orlzma/LzmaEnc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="orlzma/LzmaEnc.h" />
+		<Unit filename="orlzma/LzmaLib.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="orlzma/LzmaLib.h" />
+		<Unit filename="orlzma/Types.h" />
+		<Unit filename="typedef.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

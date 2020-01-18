@@ -1,0 +1,359 @@
+# depslib dependency file v1.0
+1238608572 source:c:\users\july_\documents\projects\az10util\7zbuf.c
+	"7zBuf.h"
+
+1238608572 c:\users\july_\documents\projects\az10util\7zbuf.h
+	"Types.h"
+
+1238608572 c:\users\july_\documents\projects\az10util\types.h
+	<stddef.h>
+	<windows.h>
+
+1238608572 source:c:\users\july_\documents\projects\az10util\7zbuf2.c
+	<string.h>
+	"7zBuf.h"
+
+1238608572 source:c:\users\july_\documents\projects\az10util\7zcrc.c
+	"7zCrc.h"
+
+1238608572 c:\users\july_\documents\projects\az10util\7zcrc.h
+	<stddef.h>
+	"Types.h"
+
+1238608572 source:c:\users\july_\documents\projects\az10util\7zfile.c
+	"7zFile.h"
+	<errno.h>
+
+1238608572 c:\users\july_\documents\projects\az10util\7zfile.h
+	<windows.h>
+	<stdio.h>
+	"Types.h"
+
+1238608572 source:c:\users\july_\documents\projects\az10util\7zstream.c
+	<string.h>
+	"Types.h"
+
+1238608572 source:c:\users\july_\documents\projects\az10util\alloc.c
+	<windows.h>
+	<stdlib.h>
+	"Alloc.h"
+	<stdio.h>
+
+1238608572 c:\users\july_\documents\projects\az10util\alloc.h
+	<stddef.h>
+
+1238608572 source:c:\users\july_\documents\projects\az10util\bcj2.c
+	"Bcj2.h"
+
+1238608572 c:\users\july_\documents\projects\az10util\bcj2.h
+	"Types.h"
+
+1238608572 source:c:\users\july_\documents\projects\az10util\bra.c
+	"Bra.h"
+
+1238608572 c:\users\july_\documents\projects\az10util\bra.h
+	"Types.h"
+
+1238608572 source:c:\users\july_\documents\projects\az10util\bra86.c
+	"Bra.h"
+
+1238608572 source:c:\users\july_\documents\projects\az10util\braia64.c
+	"Bra.h"
+
+1238608572 source:c:\users\july_\documents\projects\az10util\lzfind.c
+	<string.h>
+	"LzFind.h"
+	"LzHash.h"
+
+1238608572 c:\users\july_\documents\projects\az10util\lzfind.h
+	"Types.h"
+
+1238608572 c:\users\july_\documents\projects\az10util\lzhash.h
+
+1238608572 source:c:\users\july_\documents\projects\az10util\lzmadec.c
+	"LzmaDec.h"
+	<string.h>
+
+1238608572 c:\users\july_\documents\projects\az10util\lzmadec.h
+	"Types.h"
+
+1238608572 source:c:\users\july_\documents\projects\az10util\lzmaenc.c
+	<string.h>
+	<stdio.h>
+	"LzmaEnc.h"
+	"LzFind.h"
+	"LzFindMt.h"
+
+1238608572 c:\users\july_\documents\projects\az10util\lzmaenc.h
+	"Types.h"
+
+1238608572 source:c:\users\july_\documents\projects\az10util\lzmalib.c
+	"LzmaEnc.h"
+	"LzmaDec.h"
+	"Alloc.h"
+	"LzmaLib.h"
+
+1238608572 c:\users\july_\documents\projects\az10util\lzmalib.h
+	"Types.h"
+
+1575341991 source:c:\users\july_\documents\projects\az10util\compress.c
+	"az100_i.h"
+	"LzmaLib.h"
+	<stdio.h>
+
+1575332466 c:\users\july_\documents\projects\az10util\az100_i.h
+	"typedef.h"
+	"compress.h"
+
+1575335445 c:\users\july_\documents\projects\az10util\typedef.h
+
+1620657378 c:\users\july_\documents\projects\az10util\compress.h
+
+1575342253 source:c:\users\july_\documents\projects\az10util\main.c
+	<stdio.h>
+	<stdlib.h>
+	"az100_i.h"
+
+1575342656 source:c:\users\july_\documents\projects\az10util\az100.c
+	"az100_i.h"
+	<stdio.h>
+	<unistd.h>
+
+1238608572 source:c:\users\julian\documents\azutil\az10util\7zbuf.c
+	"7zBuf.h"
+
+1238608572 c:\users\julian\documents\azutil\az10util\7zbuf.h
+	"Types.h"
+
+1238608572 c:\users\julian\documents\azutil\az10util\types.h
+	<stddef.h>
+	<windows.h>
+
+1238608572 source:c:\users\julian\documents\azutil\az10util\7zbuf2.c
+	<string.h>
+	"7zBuf.h"
+
+1238608572 source:c:\users\julian\documents\azutil\az10util\7zcrc.c
+	"7zCrc.h"
+
+1238608572 c:\users\julian\documents\azutil\az10util\7zcrc.h
+	<stddef.h>
+	"Types.h"
+
+1238608572 source:c:\users\julian\documents\azutil\az10util\7zfile.c
+	"7zFile.h"
+	<errno.h>
+
+1238608572 c:\users\julian\documents\azutil\az10util\7zfile.h
+	<windows.h>
+	<stdio.h>
+	"Types.h"
+
+1238608572 source:c:\users\julian\documents\azutil\az10util\7zstream.c
+	<string.h>
+	"Types.h"
+
+1238608572 source:c:\users\julian\documents\azutil\az10util\alloc.c
+	<windows.h>
+	<stdlib.h>
+	"Alloc.h"
+	<stdio.h>
+
+1238608572 c:\users\julian\documents\azutil\az10util\alloc.h
+	<stddef.h>
+
+1575342656 source:c:\users\julian\documents\azutil\az10util\az100.c
+	"az100_i.h"
+	<stdio.h>
+	<unistd.h>
+
+1575332466 c:\users\julian\documents\azutil\az10util\az100_i.h
+	"typedef.h"
+	"compress.h"
+
+1575335445 c:\users\julian\documents\azutil\az10util\typedef.h
+
+1620657378 c:\users\julian\documents\azutil\az10util\compress.h
+
+1238608572 source:c:\users\julian\documents\azutil\az10util\bcj2.c
+	"Bcj2.h"
+
+1238608572 c:\users\julian\documents\azutil\az10util\bcj2.h
+	"Types.h"
+
+1238608572 source:c:\users\julian\documents\azutil\az10util\bra.c
+	"Bra.h"
+
+1238608572 c:\users\julian\documents\azutil\az10util\bra.h
+	"Types.h"
+
+1238608572 source:c:\users\julian\documents\azutil\az10util\bra86.c
+	"Bra.h"
+
+1238608572 source:c:\users\julian\documents\azutil\az10util\braia64.c
+	"Bra.h"
+
+1238608572 source:c:\users\julian\documents\azutil\az10util\lzfind.c
+	<string.h>
+	"LzFind.h"
+	"LzHash.h"
+
+1238608572 c:\users\julian\documents\azutil\az10util\lzfind.h
+	"Types.h"
+
+1238608572 c:\users\julian\documents\azutil\az10util\lzhash.h
+
+1238608572 source:c:\users\julian\documents\azutil\az10util\lzmadec.c
+	"LzmaDec.h"
+	<string.h>
+
+1238608572 c:\users\julian\documents\azutil\az10util\lzmadec.h
+	"Types.h"
+
+1238608572 source:c:\users\julian\documents\azutil\az10util\lzmaenc.c
+	<string.h>
+	<stdio.h>
+	"LzmaEnc.h"
+	"LzFind.h"
+	"LzFindMt.h"
+
+1238608572 c:\users\julian\documents\azutil\az10util\lzmaenc.h
+	"Types.h"
+
+1238608572 source:c:\users\julian\documents\azutil\az10util\lzmalib.c
+	"LzmaEnc.h"
+	"LzmaDec.h"
+	"Alloc.h"
+	"LzmaLib.h"
+
+1575654479 c:\users\julian\documents\azutil\az10util\lzmalib.h
+	"Types.h"
+
+1575654530 source:c:\users\julian\documents\azutil\az10util\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"az100_i.h"
+
+1575654674 source:c:\users\julian\documents\azutil\az10util\azlzma\lzmadec.c
+	"LzmaDec.h"
+	<string.h>
+
+1620657378 c:\users\julian\documents\azutil\az10util\azlzma\lzmadec.h
+	"Types.h"
+
+1620657378 c:\users\julian\documents\azutil\az10util\azlzma\types.h
+	<stddef.h>
+	<windows.h>
+
+1575655256 source:c:\users\julian\documents\azutil\az10util\azlzma\lzmalib.c
+	"LzmaDec.h"
+	"LzmaLib.h"
+	"../typedef.h"
+
+1575654691 c:\users\julian\documents\azutil\az10util\azlzma\lzmalib.h
+	"Types.h"
+
+1575656123 source:c:\users\julian\documents\azutil\az10util\compress.c
+	"az100_i.h"
+	"azlzma/LzmaLib.h"
+	"orlzma/LzmaLib.h"
+	<stdio.h>
+	<unistd.h>
+
+1238608572 source:c:\users\julian\documents\azutil\az10util\orlzma\7zbuf.c
+	"7zBuf.h"
+
+1238608572 c:\users\julian\documents\azutil\az10util\orlzma\7zbuf.h
+	"Types.h"
+
+1238608572 c:\users\julian\documents\azutil\az10util\orlzma\types.h
+	<stddef.h>
+	<windows.h>
+
+1238608572 source:c:\users\julian\documents\azutil\az10util\orlzma\7zbuf2.c
+	<string.h>
+	"7zBuf.h"
+
+1238608572 source:c:\users\julian\documents\azutil\az10util\orlzma\7zcrc.c
+	"7zCrc.h"
+
+1238608572 c:\users\julian\documents\azutil\az10util\orlzma\7zcrc.h
+	<stddef.h>
+	"Types.h"
+
+1238608572 source:c:\users\julian\documents\azutil\az10util\orlzma\7zfile.c
+	"7zFile.h"
+	<errno.h>
+
+1238608572 c:\users\julian\documents\azutil\az10util\orlzma\7zfile.h
+	<windows.h>
+	<stdio.h>
+	"Types.h"
+
+1238608572 source:c:\users\julian\documents\azutil\az10util\orlzma\7zstream.c
+	<string.h>
+	"Types.h"
+
+1238608572 source:c:\users\julian\documents\azutil\az10util\orlzma\alloc.c
+	<windows.h>
+	<stdlib.h>
+	"Alloc.h"
+	<stdio.h>
+
+1238608572 c:\users\julian\documents\azutil\az10util\orlzma\alloc.h
+	<stddef.h>
+
+1238608572 source:c:\users\julian\documents\azutil\az10util\orlzma\bcj2.c
+	"Bcj2.h"
+
+1238608572 c:\users\julian\documents\azutil\az10util\orlzma\bcj2.h
+	"Types.h"
+
+1238608572 source:c:\users\julian\documents\azutil\az10util\orlzma\bra.c
+	"Bra.h"
+
+1238608572 c:\users\julian\documents\azutil\az10util\orlzma\bra.h
+	"Types.h"
+
+1238608572 source:c:\users\julian\documents\azutil\az10util\orlzma\bra86.c
+	"Bra.h"
+
+1238608572 source:c:\users\julian\documents\azutil\az10util\orlzma\braia64.c
+	"Bra.h"
+
+1238608572 source:c:\users\julian\documents\azutil\az10util\orlzma\lzfind.c
+	<string.h>
+	"LzFind.h"
+	"LzHash.h"
+
+1238608572 c:\users\julian\documents\azutil\az10util\orlzma\lzfind.h
+	"Types.h"
+
+1238608572 c:\users\julian\documents\azutil\az10util\orlzma\lzhash.h
+
+1575656244 source:c:\users\julian\documents\azutil\az10util\orlzma\lzmadec.c
+	"LzmaDec.h"
+	<string.h>
+
+1575656261 c:\users\julian\documents\azutil\az10util\orlzma\lzmadec.h
+	"Types.h"
+
+1575655884 source:c:\users\julian\documents\azutil\az10util\orlzma\lzmaenc.c
+	<string.h>
+	<stdio.h>
+	"LzmaEnc.h"
+	"LzFind.h"
+	"LzFindMt.h"
+
+1238608572 c:\users\julian\documents\azutil\az10util\orlzma\lzmaenc.h
+	"Types.h"
+
+1575657393 source:c:\users\julian\documents\azutil\az10util\orlzma\lzmalib.c
+	"LzmaEnc.h"
+	"LzmaDec.h"
+	"LzmaLib.h"
+
+1575655092 c:\users\julian\documents\azutil\az10util\orlzma\lzmalib.h
+	"Types.h"
+
